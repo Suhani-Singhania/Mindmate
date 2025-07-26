@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    suhani123:
+      email: suhani@email.com
+      name: Suhani
+      password: '$2b$12$/ZuNnNfnlK9phqJ9Yufs..Ueqjc2OYkWdW4zxpXQ4Rc0VW/CbgSpcW'
+
+cookie:
+  name: mindmate_session
+  key: some_secret_key
+  expiry_days: 7
+
+preauthorized:
+  emails:
+    - suhani@email.com
